@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DGND Pin=P3-1
+Removed Pin From Net: NetName=UART_RX Pin=P3-2
+Removed Pin From Net: NetName=UART_TX Pin=P3-3
+Removed Pin From Net: NetName=DVCC Pin=P3-4
+Removed Member From Class: ClassName=ADS1294 Member=P3

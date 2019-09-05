@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=R2-1
+Removed Pin From Net: NetName=RLD Pin=R2-2
+Removed Pin From Net: NetName=CS Pin=R9-1
+Removed Pin From Net: NetName=DVDD Pin=R9-2
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Resistor 0805 390 Om 5% 0.125 Âò New DesignItemId=Res1
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Resistor 0805 390 Om 5% 0.125 Âò New DesignItemId=Res1
+Change Component Footprint: Designator=R2 Old Footprint=2012[0805] - wa New Footprint=0402
+Change Component Footprint: Designator=R9 Old Footprint=2012[0805] - wa New Footprint=0402
+Change Component Comment : Designator=R2 Old Comment=Resistor 0805 390 Om 5% 0.125 Âò New Comment=Res1
+Change Component Comment : Designator=R9 Old Comment=Resistor 0805 390 Om 5% 0.125 Âò New Comment=Res1
+Added Pin To Net: NetName=RLD Pin=R2-1
+Added Pin To Net: NetName=NetC17_1 Pin=R2-2
+Added Pin To Net: NetName=DVDD Pin=R9-1
+Added Pin To Net: NetName=CS Pin=R9-2

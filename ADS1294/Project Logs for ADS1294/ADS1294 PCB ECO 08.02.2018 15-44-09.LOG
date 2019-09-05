@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AVDD Pin=IC1-52
+Added Pin To Net: NetName=DVDD Pin=IC1-52

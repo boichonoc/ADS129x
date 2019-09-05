@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AVDD Pin=P2-1
+Removed Pin From Net: NetName=AGND Pin=P2-2
+Removed Pin From Net: NetName=RLD Pin=P2-3
+Added Pin To Net: NetName=AGND Pin=P2-1
+Added Pin To Net: NetName=RLD Pin=P2-2
+Added Pin To Net: NetName=AVDD Pin=P2-3

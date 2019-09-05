@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=0402
+Change Component Comment : Designator=IC1 Old Comment=ADS129x New Comment=ADS1298
+Change Component Comment : Designator=U8 Old Comment=STM32L151 New Comment=STM32L151C8T6
+Change Component Designator: OldDesignator= NewDesignator=C22
+Change Component Designator: OldDesignator= NewDesignator=C23
+Added Member To Class: ClassName=ADS1294 Member=Component C9 Cap Semi
+Added Member To Class: ClassName=ADS1294 Member=Component C22 Cap Semi
+Added Member To Class: ClassName=ADS1294 Member=Component C23 Cap Semi
+Added Member To Class: ClassName=ADS1294 Member=Component P2 Header 2H
+Added Member To Class: ClassName=ADS1294 Member=Component P3 WE-1.25 mm Pitch 653004114822
+Added Member To Class: ClassName=ADS1294 Member=Component P4 Micro_USB

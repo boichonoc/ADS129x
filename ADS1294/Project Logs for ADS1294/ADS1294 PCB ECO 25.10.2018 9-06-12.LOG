@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetIC1_16 Pin=P1-18
+Added Pin To Net: NetName=RLD Pin=P1-18

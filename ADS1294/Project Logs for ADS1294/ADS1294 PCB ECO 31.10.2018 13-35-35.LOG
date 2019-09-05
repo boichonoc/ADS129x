@@ -1,0 +1,6 @@
+Added Component: Designator=U7(BT34P-SMD-1.5-26.9X13.0X2.2MM)
+Added Pin To Net: NetName=UART_RX Pin=U7-1
+Added Pin To Net: NetName=UART_TX Pin=U7-2
+Added Pin To Net: NetName=DVDD Pin=U7-12
+Added Pin To Net: NetName=DGND Pin=U7-13
+Added Member To Class: ClassName=ADS1294 Member=Component U7 HC-05

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C37 Old Footprint=2012[0805] - Jumper open - wa New Footprint=J1-0603
+Change Component Footprint: Designator=C38 Old Footprint=2012[0805] - Jumper open - wa New Footprint=J1-0603
+Added Pin To Net: NetName=DGND Pin=C39-2

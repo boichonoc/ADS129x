@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AGND Pin=AGND_Jumper-1
+Added Pin To Net: NetName=AVSS Pin=AGND_Jumper-1

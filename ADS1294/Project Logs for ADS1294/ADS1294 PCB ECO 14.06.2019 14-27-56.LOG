@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DGND Pin=C37-2
+Removed Pin From Net: NetName=DGND Pin=C38-2
+Removed Pin From Net: NetName=DGND Pin=C39-2
+Removed Pin From Net: NetName=DGND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Member To Class: ClassName=ADS1294 Member=Component U5 CP2102N-A01-GQFN28

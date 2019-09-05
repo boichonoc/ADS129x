@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ADS1294.PrjPcb]
+   Generated File[ADS1294-Plated.TXT]
+   Generated File[ADS1294.LDP]
+   Generated File[ADS1294.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:41:57 On 27.08.2019

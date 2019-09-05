@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=Ñ20 NewDesignator=C20
+Change Component Designator: OldDesignator=Ñ21 NewDesignator=C21
+Change Component Designator: OldDesignator=Ñ22 NewDesignator=C22
+Change Net Name : Old Net Name=NetIC1_11 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetIC1_13 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetIC1_15 New Net Name=NetC20_1
+Added Member To Class: ClassName=ADS1294 Member=Component R0 Resistor 0805 390 Om 5% 0.125 Âò

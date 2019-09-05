@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DVDD Pin=C19-1
+Removed Pin From Net: NetName=DVDD Pin=C20-1
+Removed Pin From Net: NetName=DVDD Pin=IC1-48
+Removed Pin From Net: NetName=DVDD Pin=IC1-50
+Removed Pin From Net: NetName=DVDD Pin=IC1-52
+Added Pin To Net: NetName=DVCC Pin=C19-1
+Added Pin To Net: NetName=DVCC Pin=C20-1
+Added Pin To Net: NetName=DVCC Pin=IC1-48
+Added Pin To Net: NetName=DVCC Pin=IC1-50
+Added Pin To Net: NetName=DVCC Pin=IC1-52

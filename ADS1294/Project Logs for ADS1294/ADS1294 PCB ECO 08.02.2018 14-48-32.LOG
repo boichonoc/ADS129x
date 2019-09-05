@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIN Pin=P2-1
+Removed Pin From Net: NetName=DRDY Pin=P2-7
+Added Pin To Net: NetName=DRDY Pin=P2-1
+Added Pin To Net: NetName=DIN Pin=P2-7
