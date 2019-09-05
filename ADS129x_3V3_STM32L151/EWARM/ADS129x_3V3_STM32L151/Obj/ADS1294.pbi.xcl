@@ -1,4 +1,4 @@
-"D:\Диплом\ADS129x\ADS129x_3V3_STM32L151\Src\main.c"
+"D:\Диплом\ADS129x\ADS129x_3V3_STM32L151\Src\ADS1294.c"
 -std=c99
 -ferror-limit=100
 -I

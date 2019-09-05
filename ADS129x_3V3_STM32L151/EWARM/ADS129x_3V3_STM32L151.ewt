@@ -1196,6 +1196,12 @@
         <name>$PROJ_DIR$\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_cortex.c</name>
       </file>
       <file>
+        <name>$PROJ_DIR$\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_dac.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_dac_ex.c</name>
+      </file>
+      <file>
         <name>$PROJ_DIR$\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_dma.c</name>
       </file>
       <file>
@@ -1240,19 +1246,10 @@
     </group>
   </group>
   <file>
+    <name>$PROJ_DIR$\..\Src\ADS1294.c</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\..\Inc\ADS1294.h</name>
-  </file>
-  <file>
-    <name>$PROJ_DIR$\..\Src\ADS1294_Init.c</name>
-  </file>
-  <file>
-    <name>$PROJ_DIR$\..\Src\ADS1294_ReadData_FormatAndRecive.c</name>
-  </file>
-  <file>
-    <name>$PROJ_DIR$\..\Src\ADS1294_RW_SendComand.c</name>
-  </file>
-  <file>
-    <name>$PROJ_DIR$\..\Src\ADS1294_SetConfigurations.c</name>
   </file>
 </project>
 
