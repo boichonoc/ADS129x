@@ -1,0 +1,80 @@
+Added Component: Designator=AGND(Test Point)
+Added Component: Designator=AIN_X(Test Point)
+Added Component: Designator=AVDD(Test Point)
+Added Component: Designator=C1(J1-0603)
+Added Component: Designator=C2(J1-0603)
+Added Component: Designator=C3(J1-0603)
+Added Component: Designator=C4(3528 - Type B)
+Added Component: Designator=C5(J1-0603)
+Added Component: Designator=D1(SOT-23)
+Added Component: Designator=D2(SOT-23)
+Added Component: Designator=D?(BZV55-C10)
+Added Component: Designator=ELECTRODES(Test Point)
+Added Component: Designator=PGS1(*ESD_PGB1010603MR)
+Added Component: Designator=PGS2(*ESD_PGB1010603MR)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=U1(TI-DBV5_N)
+Added Component: Designator=Z1(BZV55-C10)
+Added Pin To Net: NetName=AGND Pin=AGND-1
+Added Pin To Net: NetName=NetAIN_X_1 Pin=AIN_X-1
+Added Pin To Net: NetName=AVDD Pin=AVDD-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=AGND Pin=C3-1
+Added Pin To Net: NetName=AVDD Pin=C3-2
+Added Pin To Net: NetName=AVDD Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C4-2
+Added Pin To Net: NetName=AVDD Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=AVDD Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=AGND Pin=D2-1
+Added Pin To Net: NetName=AVDD Pin=D2-2
+Added Pin To Net: NetName=NetAIN_X_1 Pin=D2-3
+Added Pin To Net: NetName=NetELECTRODES_1 Pin=ELECTRODES-1
+Added Pin To Net: NetName=AGND Pin=PGS1-1
+Added Pin To Net: NetName=NetAIN_X_1 Pin=PGS1-2
+Added Pin To Net: NetName=AGND Pin=PGS2-1
+Added Pin To Net: NetName=NetELECTRODES_1 Pin=PGS2-2
+Added Pin To Net: NetName=NetD1_3 Pin=R1-1
+Added Pin To Net: NetName=NetELECTRODES_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetD1_3 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetAIN_X_1 Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Pin To Net: NetName=AGND Pin=U1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Pin To Net: NetName=NetR3_1 Pin=U1-4
+Added Pin To Net: NetName=AVDD Pin=U1-5
+Added Pin To Net: NetName=AVDD Pin=Z1-1
+Added Pin To Net: NetName=AGND Pin=Z1-2
+Added Member To Class: ClassName=ActiveElectrod Member=Component AGND Test Point 1
+Added Member To Class: ClassName=ActiveElectrod Member=Component AIN_X Test Point 1
+Added Member To Class: ClassName=ActiveElectrod Member=Component AVDD Test Point 1
+Added Member To Class: ClassName=ActiveElectrod Member=Component C1 Cap Semi
+Added Member To Class: ClassName=ActiveElectrod Member=Component C2 Cap Semi
+Added Member To Class: ClassName=ActiveElectrod Member=Component C3 Cap Semi
+Added Member To Class: ClassName=ActiveElectrod Member=Component C4 Cap polar_Vishay Type B
+Added Member To Class: ClassName=ActiveElectrod Member=Component C5 Cap Semi
+Added Member To Class: ClassName=ActiveElectrod Member=Component D1 BAV99
+Added Member To Class: ClassName=ActiveElectrod Member=Component D2 BAV99
+Added Member To Class: ClassName=ActiveElectrod Member=Component D? BZV55-C10,115
+Added Member To Class: ClassName=ActiveElectrod Member=Component ELECTRODES Test Point 1
+Added Member To Class: ClassName=ActiveElectrod Member=Component PGS1 PGB1010603MR
+Added Member To Class: ClassName=ActiveElectrod Member=Component PGS2 PGB1010603MR
+Added Member To Class: ClassName=ActiveElectrod Member=Component R1 Res1
+Added Member To Class: ClassName=ActiveElectrod Member=Component R2 Res1
+Added Member To Class: ClassName=ActiveElectrod Member=Component R3 Res1
+Added Member To Class: ClassName=ActiveElectrod Member=Component R4 Res1
+Added Member To Class: ClassName=ActiveElectrod Member=Component U1 OPA336NA/3K
+Added Member To Class: ClassName=ActiveElectrod Member=Component Z1 BZV55-C10,115
+Added Room: Name=ActiveElectrod
